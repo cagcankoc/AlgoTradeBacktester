@@ -1,6 +1,6 @@
-# AlgoTradeBacktester
+# Algorithmic Trading Strategy Backtester
 
-A .NET 8-based cryptocurrency algorithmic trading backtester that evaluates trading strategies using Binance Futures historical data. The project implements the Supertrend indicator strategy with configurable parameters while maintaining an extensible architecture for testing different trading strategies.
+A .NET 8-based cryptocurrency algorithmic trading strategy backtester that evaluates trading strategies using Binance Futures historical data. The project implements the Supertrend indicator strategy with configurable parameters while maintaining an extensible architecture for testing different trading strategies.
 
 The system features a clean architecture design with dependency injection, allowing for modular strategy implementation and sophisticated risk management. It calculates key performance metrics including PnL, win rates, and risk-adjusted returns while handling position sizing and automated trade execution rules.
 
